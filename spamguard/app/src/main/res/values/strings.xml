@@ -1,0 +1,3 @@
+<resources>
+    <string name="svc_desc">Detects apps that spam popups or draw over your screen, sends you Home and tells you which app did it.</string>
+</resources>
